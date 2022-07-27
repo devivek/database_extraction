@@ -1,6 +1,5 @@
 # database_extraction
-//To activate the environment, run from the root folder
-source `pwd`/venv/bin/activate
 
-//deactivate
-deactivate
+source `pwd`/venv/bin/activate ----> Run from root folder to activate the venv
+
+deactivate ----> to deactivate the venv
